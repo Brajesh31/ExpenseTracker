@@ -4,9 +4,7 @@ A full-stack Expense Tracker application built with **MongoDB, Express.js, React
 
 ---
 
-## 🚀 Live Demo
 
-🌐 [View Live Site](https://expensetracker-front-rpp5.onrender.com)
 
 You can test the app using:
 Email: Test123@gmail.com
