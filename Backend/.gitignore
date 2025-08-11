@@ -1,0 +1,5 @@
+# Secret and environment variables
+.env
+
+# User uploaded files (avatars, etc.)
+public/

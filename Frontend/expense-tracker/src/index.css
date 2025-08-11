@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@import "tailwindcss";
+
+@theme{
+    --font-family: 'Noto Sans', sans-serif;
+    --breakpoint-3xl :  1920px;
+    --color-primary: #875cf5;
+}
+
+@layer base{
+    html{
+        font-family: var(--font-family);
+    }
+
+    body{
+        background-color: #fcfbfc;
+        overflow: hidden;
+    }
+}
